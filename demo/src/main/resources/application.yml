@@ -1,0 +1,8 @@
+
+spring:
+    main:
+      web-application-type: none
+
+wit:
+  discord:
+     token: MTIwMzcyMTc5NTc2NTY3Mzk5NA.GlkLO6.eRmvIv_XRh9RsYkhqF3zWsh0VgPsZkwROytiDU
